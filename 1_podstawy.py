@@ -1,5 +1,6 @@
 print("CDV")
 print(2)
+print("kaczucha")
 
 #potega
 potega = 2 ** 10
