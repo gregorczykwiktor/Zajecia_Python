@@ -16,10 +16,6 @@ print(losuj)
 losujZlisty = random.choice([1,2,33,4])
 print(losujZlisty)
 
-# instrukcje warunkowe
-
-
-
 # Uzytkownik podaje z klawiatury dwie wartosci.
 # Maksymalna i minimalna przedialu z ktorego bedzie wylosowane 5 liczb calkowitych.
 # Wylosowane liczby wyswietlij w formacie:
