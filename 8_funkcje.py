@@ -39,10 +39,10 @@ auto={
 print(type(auto['marka']))
 
 def wprowadz():
-    auto['marka'] = input()
-    auto['model'] = input()
-    auto['pojemnosc'] = input()
-    auto['predkoscMax'] = input()
+    auto['marka'] = input('Marka: ')
+    auto['model'] = input('Model: ')
+    auto['pojemnosc'] = input('Pojemnosc: ')
+    auto['predkoscMax'] = input('PredkoscMax: ')
 
 wprowadz()
 
