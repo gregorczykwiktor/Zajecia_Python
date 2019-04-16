@@ -22,3 +22,8 @@ pracownik['imionaRodzicow'].append('Mariola')
 pracownik['imionaRodzicow'].append('Antioni')
 
 print(pracownik)
+
+pracownik['wzrost'] = 175
+pracownik['waga'] = 75
+
+print(pracownik)
