@@ -35,7 +35,7 @@ print(programowanie)
 
 #czyszczenie list
 nowa = programowanie
-print('lista nowa: ',end="")
+print('lista nowa:' ,end='')
 print(nowa)
-nowa.clear()
-print('Lista nowa: ',end="")
+# nowa.clear()
+print('Lista nowa:' ,end='')
